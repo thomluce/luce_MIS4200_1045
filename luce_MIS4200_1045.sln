@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "luce_MIS4200_1045", "luce_MIS4200_1045.csproj", "{D916BD88-6F2E-4007-BB03-CC22EE625E4F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D916BD88-6F2E-4007-BB03-CC22EE625E4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D916BD88-6F2E-4007-BB03-CC22EE625E4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D916BD88-6F2E-4007-BB03-CC22EE625E4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D916BD88-6F2E-4007-BB03-CC22EE625E4F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3928E638-41CC-40DC-AC19-25246A7BD27B}
+	EndGlobalSection
+EndGlobal
