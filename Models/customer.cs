@@ -12,6 +12,6 @@ namespace luce_MIS4200_1045.Models
         public string lastName { get; set; }
         public string phone { get; set; }
         public string email { get; set; }
-        public ICollection<order> orders { get; set; }
+        public ICollection<customerOrder> customerOrder { get; set; }
     }
 }

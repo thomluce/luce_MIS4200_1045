@@ -5,9 +5,9 @@ using System.Web;
 
 namespace luce_MIS4200_1045.Models
 {
-    public class order
+    public class customerOrder
     {
-        public int orderID { get; set; }
+        public int customerOrderID { get; set; }
         public int customerID { get; set; }
         public virtual customer customer { get; set; }
         public DateTime orderDate { get; set; }
