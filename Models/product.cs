@@ -11,6 +11,7 @@ namespace luce_MIS4200_1045.Models
         public string description { get; set; }
         public decimal unitCost { get; set; }
         public int supplierID { get; set; }
+        public int category { get; set; }
         public ICollection<lineItem> lineItem { get; set; }
     }
 }
